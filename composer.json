@@ -4,5 +4,8 @@
         "php": ">=5.4.0",
         "deployer/deployer": "~3.0",
         "deployphp/recipes": "~3.0"
+    },
+    "autoload": {
+        "psr-4": { "makmil\\test\\": "" }
     }
 }
